@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Supabase-Uploader/static/js/main.85b33f0f.js",
+    "main.js": "/Supabase-Uploader/static/js/main.22a5cf20.js",
     "static/js/952.a9dfc6c8.chunk.js": "/Supabase-Uploader/static/js/952.a9dfc6c8.chunk.js",
     "index.html": "/Supabase-Uploader/index.html",
-    "main.85b33f0f.js.map": "/Supabase-Uploader/static/js/main.85b33f0f.js.map",
+    "main.22a5cf20.js.map": "/Supabase-Uploader/static/js/main.22a5cf20.js.map",
     "952.a9dfc6c8.chunk.js.map": "/Supabase-Uploader/static/js/952.a9dfc6c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.85b33f0f.js"
+    "static/js/main.22a5cf20.js"
   ]
 }
